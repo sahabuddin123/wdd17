@@ -1,0 +1,21 @@
+a{
+			height: 50px;
+			width: 80px;
+			padding: 10px;
+			border: 1px solid red;
+			background: transparent;
+			border-radius: 10px 0px 5px 18px;
+			font-size: 20px;
+			font-weight: bold;
+			margin-top: 100px;
+			margin-left: 100px;
+			text-decoration: none;
+			transform: translateX(20%);
+			transform: translateY(30%);
+			transition: .5s ease-in;
+		}
+		a:hover{
+			background: #ff4f81;
+			border: #c7c7c7;
+			transition: .5s ease-out;
+		}
